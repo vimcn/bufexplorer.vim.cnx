@@ -1,0 +1,5 @@
+
+bufexplorer.vim 中文文档
+========================
+
+[bufexplorer.vim](http://www.vim.org/scripts/script.php?script_id=42)
